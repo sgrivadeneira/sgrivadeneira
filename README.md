@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sgrivadeneira
-- 👀 I’m interested in software analysis and databases design
+- 👀 I’m interested in software analysis and databases design.
 - 🌱 I’m currently learning about Lean Thinking and Communities of Practice.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate in communities that work on topics of my interest.
 - 📫 grivadeneira@uart.unpa.edu.ar / sgrivadeneira@yahoo.com.ar
 
 <!---
